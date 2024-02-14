@@ -1,4 +1,4 @@
-const editeOnDOM = () => {
+exports.editeOnDOM = () => {
   // Your code to run after DOMContentLoaded
   const elements = document.querySelectorAll("tr");
 
